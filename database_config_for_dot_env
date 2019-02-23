@@ -1,0 +1,16 @@
+//mysql
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=enterprise_app
+DB_USERNAME=root
+DB_PASSWORD=12345
+
+//sqlite
+
+DB_CONNECTION=sqlite
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=C:\xampp\htdocs\enterprise\database\enterprise_app.sqlite
+DB_USERNAME=root
+DB_PASSWORD=null
